@@ -7,7 +7,7 @@ This project analyzes the correlation between weather conditions and crime rates
 Project Proposal
 ----------------
 
-*   [Project Proposal Presentation]([https://tome.app/shoumik-e08/analyzing-the-impact-of-weather-conditions-on-crime-rates-in-chicago-clte1t9b903rzpm627ohilnpb](https://docs.google.com/presentation/d/1rYdVZvR8MsHnR1PxwPS0uLU5LktyFjEU/edit#slide=id.p1)) - This presentation outlines the objectives, methods, and expected outcomes of our analysis on how weather conditions impact crime rates in Chicago. It provides a detailed overview of the proposed methodologies, data sources, and analytical techniques that will be used to explore the correlation between weather patterns and criminal activities.
+* [Project Proposal Presentation](https://docs.google.com/presentation/d/1rYdVZvR8MsHnR1PxwPS0uLU5LktyFjEU/edit#slide=id.p1) - This presentation outlines the objectives, methods, and expected outcomes of our analysis on how weather conditions impact crime rates in Chicago. It provides a detailed overview of the proposed methodologies, data sources, and analytical techniques that will be used to explore the correlation between weather patterns and criminal activities.
     
 
 Dependencies
